@@ -1,1 +1,1 @@
-# snow-china-area-next
+Snow-Admin-Vue3 是一个基于 Vite, 采用 Vue3.2+、Vue-Router、Pinia、Ant-Design-Vue 3 +、TypeScript 的后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、、hooks、动态菜单、权限校验、按钮级别权限控制等功能。项目会使用前端较新的技术栈，可以作为项目的启动模版，以帮助你快速搭建企业级中后台产品原型。也可以作为一个示例，用于学习 vue3、vite、ts 等主流技术。该项目会持续跟进最新技术，并将其应用在项目中。
