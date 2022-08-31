@@ -7,6 +7,8 @@
   2， 基础UI及简单模块的复用通过组建化，大业务板块，页面模块 模板化
   3， hooks 只用来组织状态逻辑，effects逻辑， 不能用来组织UI层配置
   4， UI可以通过配置化解决，例如schema 配置
+  
+  
 代码分层理念
   1，参考 nestjs springboot angular
   2,
