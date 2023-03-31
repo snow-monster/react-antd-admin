@@ -12,6 +12,9 @@
   
   #components-layout-demo-custom-trigger .logo {
     height: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
     margin: 16px;
     background: rgba(255, 255, 255, 0.3);
   }
